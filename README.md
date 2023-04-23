@@ -116,7 +116,7 @@
 - [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 - [Scaling Kubernetes to 2,500 nodes](https://openai.com/research/scaling-kubernetes-to-2500-nodes)
 - [Measuring the Algorithmic Efficiency of Neural Networks](https://arxiv.org/ftp/arxiv/papers/2005/2005.04305.pdf)
-
+- [Web Server of OpenAI Technical details](https://openai.com/blog/march-20-chatgpt-outage#technical-details)
 ---
 
 ### 贡献
