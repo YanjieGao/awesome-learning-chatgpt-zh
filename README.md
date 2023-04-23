@@ -105,11 +105,14 @@
 
 #### 算法
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
-- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
-- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
 - [Learning to summarize with human feedback](https://openai.com/research/learning-to-summarize-with-human-feedback)
-  
+- In context learning:
+  - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- Fine tuning
+  - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+  - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
+  - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375)   
+ 
 #### 系统
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
 - [Introducing Triton: Open-source GPU programming for neural networks](https://openai.com/research/triton)
