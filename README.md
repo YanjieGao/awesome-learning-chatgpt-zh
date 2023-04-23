@@ -101,7 +101,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
 
-### 学术论文
+### 论文与博客
 
 #### 算法
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
@@ -109,6 +109,7 @@
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
 - [Learning to summarize with human feedback](https://openai.com/research/learning-to-summarize-with-human-feedback)
+- [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave)
   
 #### 系统
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
